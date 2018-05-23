@@ -28,6 +28,13 @@ h1 {
   color: #F91EDB;
   font-family: monospace;
 }
-a{
+a.l{
   font-size: 20px;
+}
+p.best{
+  font-size: 60px;
+  font-weight: bold;
+  color: #F9F21E;
+  text-shadow: 2px 2px #8B0000;
+  font-family: impact;
 }
