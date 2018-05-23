@@ -4,3 +4,26 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
+li {
+  line-height: 20px;
+  font-size: 20px;
+display: inline-block;
+font color: red;
+font-family: monospace;
+}
+
+ul {
+  text-align: center;
+}
+
+p.flashy{
+  font-style: italic;
+  color: red;
+  font-size: 20px;
+  font-family: monospace;
+}
+h1 {
+  font-size: 50px;
+  color: #F91EDB;
+  font-family: monospace;
+}
