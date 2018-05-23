@@ -3,6 +3,7 @@ body{
   background-image: url("../img/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  font-family:monospace;
 }
 li {
   line-height: 20px;
@@ -26,4 +27,7 @@ h1 {
   font-size: 50px;
   color: #F91EDB;
   font-family: monospace;
+}
+a{
+  font-size: 20px;
 }
